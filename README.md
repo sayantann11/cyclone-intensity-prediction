@@ -54,4 +54,13 @@ We aim to build a user friendly and interactive dashboard which will directly pr
 The future work of the project includes improving the accuracy and introducing more features to extend the model to an extensive one.
 
 
+## References
+
+https://www.csie.ntu.edu.tw/~htlin/program/TCIR/ - TCIR satellite image dataset
+
+https://link.springer.com/article/10.1007/s42452-019-1134-8  - Tropical cyclone intensity detection by geometric features of cyclone images and multilayer perceptron
+https://ntrs.nasa.gov/api/citations/20170011716/downloads/20170011716.pdf  - Using Deep Learning for Tropical Cyclone Intensity Estimation
+https://mausam.imd.gov.in/imd_latest/contents/satellite.php  - INSAT 3D SATELLITE IMAGE
+
+
 
